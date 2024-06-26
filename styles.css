@@ -1,0 +1,100 @@
+body {
+    background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+    font-family: sans-serif;
+    padding: 20px;
+} /*Step 28 & 57 & 72*/
+
+h1, h2, p {
+    text-align: center;
+} /*Step 14*/
+
+.established {
+    font-style: italic;
+} /*Step 60*/
+
+/*body {
+    background-color: burlywood;
+}*/ /*Step 18 & 19 & 22*/
+
+
+h1 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+} /*Step 62 & 84 & 85*/
+h2 {
+    font-size: 30px;
+} /*Step 62*/
+
+.menu {
+    width: 80%;
+    max-width: 500px;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}/*Step 21 & 23 & 24 & 25 & 26 & 53 & 54 & 55 & 56*/
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -25px;
+} /*Step 89 & 91*/
+
+hr {
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+} /*Step 67 & 68 & 69 & 70*/
+
+.bottom-line {
+    margin-top: 25px;
+}/*Step 75*/
+
+h1, h2 {
+    font-family: Impact, serif;
+} /*Step 58 & 59*/
+
+.item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+} /*Step 37 & 73 & 74*/ 
+
+.flavor, .dessert {
+    text-align: left;
+    width: 75%;
+} /*Step 33 & 38 & 39 & 41 & 45 & 51*/
+
+.price {
+    text-align: right;
+    width: 25%;
+} /*Step 35 & 38 & 39 & 41 & 45*/
+
+/*FOOTER*/ /*Step 77*/
+
+footer {
+    font-size: 14px;
+}/*Step 78*/
+
+.address {
+    margin-bottom: 5px;
+} /*Step 86*/
+
+a {
+    color: black;
+}/*Step 79*/
+
+a:visited {
+    color: black;
+} /*Step 80 & 83*/
+
+a:hover {
+    color: brown;
+}/*Step 81*/
+
+a:active {
+    color: brown;
+} /*Step 82 & 83*/
